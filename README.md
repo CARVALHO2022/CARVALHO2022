@@ -5,7 +5,8 @@
 - 😄 Pronouns: Ele/ Dele.
 
 ## Fernando Carvalho!
-<div align="center">
+
+<div display: inline_block"><br>
   <a href="https://https://github.com/CARVALHO2022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CARVALHO2022&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARVALHO2022&layout=compact&langs_count=7&theme=codeSTACKr"/>
