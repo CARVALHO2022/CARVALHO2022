@@ -3,8 +3,6 @@
 - 🔭 Hoje eu trabalho com Elétrica e estou em transição de carreira para programação! 
 - 🌱 Estudando Front-and e Back And
 - 😄 Pronouns: Ele/ Dele.
-
-## Fernando Carvalho!
 <div align="center">
   <a href="https://https://github.com/CARVALHO2022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CARVALHO2022&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
